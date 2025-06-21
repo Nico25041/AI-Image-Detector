@@ -8,10 +8,8 @@ This project uses machine learning to classify real versus AI generated photos.
 - Built with Python, PyTorch, scikit-learn, NumPy
 
 ## Demo
-![Before and after folding classification](screenshots/folding_demo.png)
+![Confusion matrix](screenshots/Confusion_Matrix.png)
 
-## Try It
-Coming soon — Hugging Face link / Notebook
 
 ## Author
 Nicolas Escobedo — [LinkedIn](www.linkedin.com/in/nicolas-r-escobedo) 
